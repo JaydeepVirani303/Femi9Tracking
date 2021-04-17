@@ -1,0 +1,6 @@
+framework module Femi9Tracking {
+  umbrella header "Femi9Tracking-umbrella.h"
+
+  export *
+  module * { export * }
+}

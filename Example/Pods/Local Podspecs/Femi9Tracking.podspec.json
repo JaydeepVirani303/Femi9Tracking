@@ -1,0 +1,22 @@
+{
+  "name": "Femi9Tracking",
+  "version": "0.1.0",
+  "summary": "A short description of Femi9Tracking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jaydeep/Femi9Tracking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jaydeep": "viranijaydeep303@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Jaydeep/Femi9Tracking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Femi9Tracking/Classes/**/*"
+}

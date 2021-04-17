@@ -1,0 +1,6 @@
+framework module Pods_Femi9Tracking_Tests {
+  umbrella header "Pods-Femi9Tracking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

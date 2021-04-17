@@ -1,0 +1,16 @@
+PODS:
+  - Femi9Tracking (0.1.0)
+
+DEPENDENCIES:
+  - Femi9Tracking (from `../`)
+
+EXTERNAL SOURCES:
+  Femi9Tracking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Femi9Tracking: 11e2b9a086c9be1a9d6e404c27ad933f472062a2
+
+PODFILE CHECKSUM: ee76d0dde31d408e6bb36baddca7c2c4a7e411a6
+
+COCOAPODS: 1.10.1

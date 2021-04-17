@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'Femi9Tracking_Example' do
+  pod 'Femi9Tracking', :path => '../'
+
+  target 'Femi9Tracking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
